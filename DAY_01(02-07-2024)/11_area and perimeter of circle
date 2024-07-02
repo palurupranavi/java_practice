@@ -1,0 +1,7 @@
+public static final double radius=7.5;
+    public static void main(String[] args) {
+        double per=2*Math.PI*radius;
+        double a=Math.PI*radius*radius;
+        System.out.println("perimeter is: "+per);
+        System.out.println("Area is: "+a);
+    }
