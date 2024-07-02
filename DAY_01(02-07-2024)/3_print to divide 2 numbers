@@ -1,0 +1,2 @@
+int a=50,b=3;
+System.out.println("divide:"+a/b);
