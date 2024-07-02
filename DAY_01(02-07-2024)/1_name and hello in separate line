@@ -4,5 +4,7 @@ class Hello
 public static void main(String args[])
 {
 System.out.println("Hello"+"\n"+"Pranavi");
+//method-2
+System.out.println("Hello\nPranavi");
 }
 }
